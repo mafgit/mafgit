@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah!
 
 ## 💻 About Me
-I am a passionate developer who loves building **useful and impactful projects**.
+I am a passionate developer who loves building **useful and impactful projects**. I am currently studying B.S. in Computer Science at FAST NUCES 🎓 (Expected Graduation Year: 2026).
 
 ## 🚀 Main Interests
 - 🌐 **Web Development** (frontend + backend)  
@@ -24,8 +24,10 @@ I am a passionate developer who loves building **useful and impactful projects**
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=dark)  
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=radical)  
 
+<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafgit&theme=dark)
+-->
