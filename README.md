@@ -24,6 +24,8 @@ I am a passionate developer who loves building **useful and impactful projects**
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=radical)  
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=dark)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafgit&theme=dark)
