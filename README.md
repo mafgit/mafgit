@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Abdullah!
 
-## 💻 About Me
+## 📝 About Me 
 I am a passionate developer who loves building **useful and impactful projects**. I am currently studying B.S. in Computer Science at FAST NUCES 🎓 (Expected Graduation Year: 2026).
 
 ## 🚀 Main Interests
-- 🌐 **Web Development** (frontend + backend)  
+- 🌐 **Web Development** (Frontend + Backend)  
 - 🤖 **AI / ML / Deep Learning**  
 - 🧩 **DSA & Optimization**  
 
@@ -17,10 +17,8 @@ I am a passionate developer who loves building **useful and impactful projects**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-farooqui-24754b27a/)  
 
 ## 📊 GitHub Stats
 
