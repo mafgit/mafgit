@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah!
+# Hi! I'm Abdullah.
 
 ## 📝 About Me 
 I am a passionate developer who loves building **useful and impactful projects**. I am currently studying B.S. in Computer Science at FAST NUCES 🎓 (Expected Graduation Year: 2026).
