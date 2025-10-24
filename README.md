@@ -20,11 +20,15 @@ I am a passionate developer who loves building **useful and impactful projects**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
 
+<!--
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=radical)  
+-->
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=radical)  
+--?
 
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafgit&theme=dark)
