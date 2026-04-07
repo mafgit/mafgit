@@ -5,31 +5,20 @@ I am a passionate developer who loves building **useful and impactful projects**
 
 ## 🚀 Main Interests
 - 🌐 **Web Development** (Frontend + Backend)  
-- ✨ **AI / ML / Deep Learning**  
-- 🧩 **DSA & Optimization**  
+- ✨ **AI / ML / Deep Learning** 
+- 🧩 **System, Design, Architecture & Code Optimization**  
 
 ## 🛠️ Primary Stack
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](httxps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-
-<!--## 📊 GitHub Stats-->
-
-<!--
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafgit&show_icons=true&theme=radical)  
--->
-
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafgit&layout=compact&theme=radical)  
---?
-
-<!--
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mafgit&theme=dark)
 -->
