@@ -4,9 +4,9 @@
 I am a passionate developer who loves building **useful and impactful projects**. I am currently pursuing Bachelor of Computer Science at FAST NUCES 🎓 (Expected Graduation Year: 2026).
 
 ## 🚀 Main Interests
-- 🌐 **Web Development** (Frontend + Backend)  
 - ✨ **AI / ML / Deep Learning** 
 - 🧩 **System, Design, Architecture & Code Optimization**  
+- 🌐 **Web Development** (Frontend + Backend)  
 
 ## 🛠️ Primary Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
