@@ -1,12 +1,12 @@
 # Hi! I'm Abdullah.
 
 ## 📝 About Me
-I am a passionate developer who loves building **useful and impactful projects**. I am currently pursuing Bachelor of Computer Science at FAST NUCES 🎓 (Expected Graduation Year: 2026).
+I am a passionate developer who loves building **useful and impactful projects**. I have completed Bachelor of Computer Science from FAST NUCES 🎓 in 2026.
 
 ## 🚀 Main Interests
+- 🌐 **Full Stack Web Development**  
 - ✨ **AI / ML / Deep Learning** 
-- 🧩 **System, Design, Architecture & Code Optimization**  
-- 🌐 **Web Development** (Frontend + Backend)  
+- 🧩 **System, Design, Architecture & Code Optimization**
 
 ## 🛠️ Skills
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
